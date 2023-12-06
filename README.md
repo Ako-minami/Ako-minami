@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ako-minami
 - 👀 I’m interested in video games, art, food and animes
-- 🌱 I’m currently learning software developement and japanese
+- 🌱 I’m currently learning software developement 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
